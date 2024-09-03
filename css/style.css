@@ -141,6 +141,7 @@ section{
 .images{
     border-bottom: 4px solid var(--primary--color);
     width: auto;
+    border-radius: 1.5rem;
 }
 .main p {
     margin-top: 1rem;
