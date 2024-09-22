@@ -43,6 +43,7 @@ header{
     align-items: center;
     justify-content:center;
     float: right;
+    font-size: medium;
 }
 .nav-list{
     list-style: none;
@@ -140,7 +141,7 @@ section{
 }
 .images{
     border-bottom: 4px solid var(--primary--color);
-    width: 100%;
+    width: auto;
     
 }
 .main p {
@@ -153,7 +154,7 @@ section{
         gap: 10px;
     }
     img{
-        width: 75%;
+        width: 100%;
     }
     .images{
         width: auto;

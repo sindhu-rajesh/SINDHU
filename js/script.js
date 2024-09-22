@@ -15,7 +15,7 @@ function linkAction(){
 
 navlink.forEach(n=>n.addEventListener('click',linkAction))
 
-/*function send(){
+function send(){
     let email=document.getElementById('email').value;
     let fristname=document.getElementById('firstname').value;
     let lastname=document.getElementById('lastname').value;
@@ -32,4 +32,4 @@ navlink.forEach(n=>n.addEventListener('click',linkAction))
     }).then(
       message => alert(message)
     );
-}*/
+}
